@@ -1,0 +1,197 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+h1 {
+    background-image: url(../img/music-note.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 50px;
+    height: 80px;
+    text-indent: -999px;
+    float: left;
+    margin-right: 70px;
+    margin-top: -22px;
+}
+h2{
+    margin-top: 30px;
+    margin-left: 40px;
+    font-size: 24px;
+    clear: both;
+    color: #000;
+}
+header {
+    padding: 40px;
+    height: 60px;
+    background-color: #000;
+}
+header li {
+    margin-right: 10px;
+    float: left;
+    margin-top: -10px;
+}
+header li a {
+    padding: 5px 10px;
+    color: #fff;
+    font-size: 12px;
+}
+
+main .ateg {
+    background-image: url(../img/fb.png);
+    background-image: url(../img/instagram.png);
+    background-repeat: no-repeat;
+    position: fixed;
+    background-size: 100%;
+    overflow: hidden;
+    height: 50px;
+    width: 50px;
+    text-indent: -99999px;
+    margin-left: 680px;
+}
+main .ateg2 {
+    background-image: url(../img/fb.png);
+    background-repeat: no-repeat;
+    position: fixed;
+    background-size: 100%;
+    overflow: hidden;
+    height: 50px;
+    width: 50px;
+    text-indent: -99999px;
+    margin-left: 680px;
+    margin-top: 50px;
+}
+.soc {
+    top: 10%; left: 49%;
+}
+.articles {
+    margin-bottom: 20px;
+    float: left;
+}
+.article {
+    width: 100%;
+    height: 250px;
+    float: left;
+    margin: 20px;
+}
+.section {
+    width: 300px;
+    height: 250px;
+    border: 2px #000 solid;
+    background-image: url(../img/sound.png);
+    background-repeat: repeat-x;
+    background-size: 25%;
+    background-position-y: 80px; 
+    padding-top: 180px;
+    padding-left: 10px;
+    margin: 20px 30px;
+    position: relative;
+}
+.like{
+    width: 50px;
+    height: 50px;
+    background-image: url(../img/like.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.paragrafi{
+    font-size: 14px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.artists {
+    font-size: 12px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.paragrafi2 {
+    margin-left: 30px;
+    margin-top: -10px;
+    font-size: 10px;
+    color: #000;
+}
+footer {
+        padding: 20px;
+        background-color: #000000;
+        height: 250px;
+        clear: both
+}
+footer h2 {
+    margin: 0 auto;
+    background-image: url(../img/music-note.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 80px;
+    height: 80px;
+    text-indent: -999999px;
+}
+footer nav li {
+    margin-left: 645px;
+    margin-top: 10px;
+}
+footer nav li a {
+    padding: 5px 10px;
+    color: #fff;
+    font-size: 16px;
+}
+footer p {
+    font-size: 16px;
+    color: #fff;
+    margin-left: 630px;
+    margin-top: 40px;
+}
+
+/* -------------- Page #2 ------------------- */
+
+.satauri, .satauri1, .satauri2, .satauri3, .satauri4, .satauri5 {
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+span {
+    margin-left: 14px;
+}
+main div {
+    float: left;
+    margin-left: 56px;
+}
+.divi {
+    margin-left: -100px;
+
+}
+.divi1 {
+    margin-left: 200px
+}
+main div p {
+    font-size: 16px;
+}
+
+.divi2 {
+    clear: both;
+}
+.surati1 {
+    width: 100px;
+    height: 50px;
+    display: flex;
+    margin-top: 300px;
+    margin-left: -200px;
+}
+.img1 {
+    margin-left: 5px;
+}
+.surati2 {
+    width: 150px;
+    height: 50px;
+    display: flex;
+    margin-top: 400px;
+    margin-left: -580px;
+}
+.bolo {
+    font-size: 24px;
+    margin-top: 240px;
+    margin-left: 470px;
+}
